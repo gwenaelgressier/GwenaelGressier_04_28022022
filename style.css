@@ -762,9 +762,6 @@ h4 {
   color: #ffffff !important;
 }
 
-.black {
-  color: #000000 !important;
-}
 .portfolio-thumb {
   margin-bottom: 24px;
 }
@@ -833,6 +830,10 @@ h4 {
 .icon-dark-slate-blue {
   color: #364577 !important;
   border-color: #364577 !important;
+}
+
+.black {
+  color: #000000 !important;
 }
 
 .bg-dots-bg {
